@@ -13,4 +13,3 @@ Thumbs.db
 .idea/
 vendor/
 composer.phar
-/.env
